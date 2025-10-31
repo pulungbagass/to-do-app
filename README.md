@@ -1,18 +1,37 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🚀 Next.js Project Starter
 
-## Getting Started
+This is a **Next.js** project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).  
+Modern stack, clean structure, and ready for serious dev action ⚡
+
+---
+
+## 🧠 Tech Stack
+
+- ⚛️ **Next.js 14+** — App Router structure  
+- 🎨 **Tailwind CSS** — Utility-first CSS for rapid UI building  
+- 🧹 **ESLint** — Code linting for consistent and clean syntax  
+- 🌀 **Turbopack** — Blazing-fast bundler for modern Next.js dev  
+- 🪶 **next/font** — Optimized font loading (includes [Geist](https://vercel.com/font))
+
+---
+
+## 🏃 Getting Started
 
 First, run the development server:
 
 ```bash
+# Using npm
 npm run dev
-# or
+
+# or using Yarn
 yarn dev
-# or
+
+# or using pnpm
 pnpm dev
-# or
+
+# or using Bun
 bun dev
-```
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
