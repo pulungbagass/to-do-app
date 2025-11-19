@@ -11,6 +11,7 @@ Modern stack, clean structure, and ready for serious dev action ⚡
 - 🎨 **Tailwind CSS** — Utility-first CSS for rapid UI building  
 - 🧹 **ESLint** — Code linting for consistent and clean syntax  
 - 🌀 **Turbopack** — Blazing-fast bundler for modern Next.js dev  
+- 🕶️ **HeroUI** — Tampalte komponen UI for moderen UI next.js dev
 - 🪶 **next/font** — Optimized font loading (includes [Geist](https://vercel.com/font))
 
 ---
